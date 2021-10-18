@@ -4,11 +4,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fombi-Favour" alt="fombi-favour" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/FavourFombi" target="blank"><img src="https://img.shields.io/twitter/follow/FavourFombi?logo=twitter&style=for-the-badge" alt="FavourFombi" /></a> </p>
 
 - 🌱 I’m currently learning **C#, C++ and Java**
 
-- 📫 How to reach me **fombifavour@gmail.com**
+- 📫 How to reach me **fombifavour@gmail.com and on @FavourFombi**
 
 - ⚡ Fun fact **I don't know either**
 
@@ -20,6 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fombi-Favour&show_icons=true&locale=en" alt="Fombi-Favour" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?Fombi-Favour&" alt="Fombi-Favour" /></p>
 
 
