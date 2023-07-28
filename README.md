@@ -18,6 +18,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fombi-Favour&show_icons=true&locale=en&layout=compact" alt="Fombi-Favour" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fombi-Favour&show_icons=true&locale=en" alt="Fombi-Favour" /></p>
+   
+   <a href="http://www.github.com/Fombi-Favour"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fombi-favour&hide_border=true" /></a>
 
-
+   
 
